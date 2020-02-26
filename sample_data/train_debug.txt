@@ -1,0 +1,19 @@
+10598803|t|The identical 5' splice-site acceptor mutation in five attenuated APC families from Newfoundland demonstrates a founder effect.
+10598803|a|Inherited mutations of the APC gene predispose carriers to multiple adenomatous polyps of the colon and rectum and to colorectal cancer. Mutations located at the extreme 5 end of the APC gene, however, are associated with a less severe disease known as attenuated adenomatous polyposis coli (AAPC). Many individuals with AAPC develop relatively few colorectal polyps but are still at high risk for colorectal cancer. We report here the identification of a 5 APC germline mutation in five separately ascertained AAPC families from Newfoundland, Canada. This disease-causing mutation is a single basepair change (G to A) in the splice-acceptor region of APC intron 3 that creates a mutant RNA without exon 4 of APC. The observation of the same APC mutation in five families from the same geographic area demonstrates a founder effect. Furthermore, the identification of this germline mutation strengthens the correlation between the 5 location of an APC disease-causing mutation and the attenuated polyposis phenotype.
+10598803	55	69	attenuated APC	Modifier	C538265
+10598803	155	158	APC	Modifier	D011125
+10598803	196	238	adenomatous polyps of the colon and rectum	CompositeMention	D011125
+10598803	246	263	colorectal cancer	SpecificDisease	D015179
+10598803	311	314	APC	Modifier	D011125
+10598803	381	418	attenuated adenomatous polyposis coli	SpecificDisease	C538265
+10598803	420	424	AAPC	SpecificDisease	C538265
+10598803	449	453	AAPC	SpecificDisease	C538265
+10598803	477	494	colorectal polyps	SpecificDisease	D003111
+10598803	526	543	colorectal cancer	SpecificDisease	D015179
+10598803	586	589	APC	Modifier	D011125
+10598803	639	643	AAPC	Modifier	C538265
+10598803	780	783	APC	Modifier	D011125
+10598803	870	873	APC	Modifier	D011125
+10598803	1076	1079	APC	Modifier	D011125
+10598803	1113	1133	attenuated polyposis	Modifier	C538265
+
